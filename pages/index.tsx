@@ -7,7 +7,7 @@ function HomePage() {
       <Container>
         <div className="space-y-6">
           <h1 className="text-2xl font-bold">
-            Ola mundo Bruno
+            Ola mundo DK
             </h1>
         </div>
       </Container>
